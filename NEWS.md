@@ -1,4 +1,4 @@
-# datos (development version)
+# datos 0.3.0
 
 # datos 0.2.0.9000
 
